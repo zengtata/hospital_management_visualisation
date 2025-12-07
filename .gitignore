@@ -1,0 +1,16 @@
+# Python / Backend
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node / Frontend (if you have one)
+node_modules/
+dist/
+build/
+.next/
+
+# IDE Settings (JetBrains/VS Code)
+.idea/
+.vscode/
+*.swp
